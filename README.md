@@ -1,1 +1,69 @@
 # portfolio-project-activity
+<!--
+    Sylvester
+    by Sylvester kyalo
+    feb 2022
+    MIt license
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!--navigation bar section-->
+    <nav>
+        <a href="">homepage</a>
+        <a href="">about</a>
+        <a href="">resume</a>
+        <a href="">project</a>
+        <a href="">blog</a>
+    </nav>
+    <!--header section-->
+    <header>
+        <h1>Hallo, and welcome to my website:</h1>
+        <p> -My name is James Musili </p>
+
+        <p>-I am a full-stack web developer
+            with over two years working
+            experience<br> helping individuals
+            and organisations create solutions
+            to real world problems. </p>
+    </header>
+    <!--main section-->
+    <main>
+        <section>
+            <p>-I have featured in a
+                number of projects like
+                introduction of the<strong>  C programming language.</strong>
+            </p>
+        </section>
+        <section>
+            <h2>testimonials</h2>
+            <p>Refer my<strong>  CV</strong>
+            </p>
+        </section>
+    </main>
+    <!--footer section-->
+    <footer>
+        <h3>Contacts</h3>
+        <ul>
+            <li><a href="">Twitter: @jamesmusili4</a></li>
+            <li><a href="">Git hub: jamesmusili1</a></li>
+            <li><a href="">Instagram: iamjamesmusili</a></li>
+            <li><a href="">Whatsapp:+254111410457</a></li>
+            <li><a href="">Facebook: addi alsace</a></li>
+        </ul>
+        <p>
+            all rights reserved &copy;
+        </p>
+       FEB  2022  <a href=""><strong>James Musili</strong></a>
+    </footer>
+</body>
+
+</html>
